@@ -18,6 +18,7 @@
 
 </div>
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=22&fontColor=10B981&color=0:61DAFB,100:1E3A8A&reversal=true&animation=blink&animationDuration=6000" />
 </div>
