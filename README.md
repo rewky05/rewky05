@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rewky05/rewky05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+April+👋;Turning+ideas+into+code+✨;Clean+code+%26+good+design+💡;Always+learning+🚀" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+🔭 Building scalable solutions  
+💡 Passionate about clean code & UX  
+🚀 Creating the future with technology  
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,firebase,git&perline=6" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=120&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=22&fontColor=ffffff" />
+</div>
